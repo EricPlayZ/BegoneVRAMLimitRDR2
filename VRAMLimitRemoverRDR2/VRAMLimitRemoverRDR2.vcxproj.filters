@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="source\core.cpp" />
+    <ClCompile Include="source\dllmain.cpp" />
+    <ClCompile Include="source\utils\memory.cpp">
+      <Filter>utils</Filter>
+    </ClCompile>
+    <ClCompile Include="source\utils\sigscan.cpp">
+      <Filter>utils</Filter>
+    </ClCompile>
+    <ClCompile Include="source\utils\hook.cpp">
+      <Filter>utils</Filter>
+    </ClCompile>
+    <ClCompile Include="pch\pch.cpp" />
+    <ClCompile Include="source\game_hooks.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="source\utils\memory.h">
+      <Filter>utils</Filter>
+    </ClInclude>
+    <ClInclude Include="source\utils\sigscan.h">
+      <Filter>utils</Filter>
+    </ClInclude>
+    <ClInclude Include="source\offsets.h" />
+    <ClInclude Include="source\utils\hook.h">
+      <Filter>utils</Filter>
+    </ClInclude>
+    <ClInclude Include="source\MinHook\MinHook.h">
+      <Filter>MinHook</Filter>
+    </ClInclude>
+    <ClInclude Include="pch\pch.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="MinHook">
+      <UniqueIdentifier>{794284a1-160f-4b62-bfd0-d160dbb38e40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="utils">
+      <UniqueIdentifier>{0e7be9b3-e988-471b-95e5-51ca0c69a046}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
