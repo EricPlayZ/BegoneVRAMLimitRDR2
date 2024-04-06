@@ -13,5 +13,5 @@ This mod is supposed to survive game updates, but sometimes it doesn't. If the u
 <img src="https://i.imgur.com/nbipzX1.png"/><br>
 <a href="https://github.com/TsudaKageyu/minhook">minhook</a><br>
 <a href="https://github.com/coltonon/OpenGameCamera">OpenGameCamera</a><br><br>
-This mod is licensed under the MIT License (included with the download and source code).
+This mod is licensed under the MIT License (included with the source code).
 </p>
