@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/s6ZV1cz.png"/><br>
+<img src="https://i.imgur.com/gC6yxlv.png"/><br>
 <b>"Begone VRAM Limit" is an ASI mod for Red Dead Redemption 2, developed in C++, meant for removing the VRAM limit inside the graphics settings.</b><br><br>
 <img src="https://i.imgur.com/kOyrZYC.png"/><br>
 <b>STEP 1: </b>Download and install an <b>ASI Loader</b> compatible with the game<br>
